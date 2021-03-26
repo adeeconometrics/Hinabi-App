@@ -2,8 +2,7 @@
 The Hinabi app aims to have fast, easy and convenient transactions with social welfare services on the fly.
 <p align="center">
   <img src="https://github.com/adeeconometrics/Hinabi-App/blob/main/Diagrams/hinabi_logo.jpg" />
-
-< \p>
+</p>
   
 ----
 
@@ -12,7 +11,9 @@ Everyone is affected by the pandemic, but the magnitude of how people are affect
 ## Design Matters: Organization of Concepts
 The diagram below shows the relationships and common features of the Social Welfare Applications, as they are the basis of our design implementation. 
 
-![class giagram](https:https://github.com/adeeconometrics/Hinabi-App/main/Diagrams/sitemap.jpg?raw=true)
+<p align = "center">
+<img src = "https:https://github.com/adeeconometrics/Hinabi-App/main/Diagrams/sitemap.jpg">
+</p>
 
 ## Notes for the current state of the project
 The application is currently unstable, some animations on our app preview is not apparent with the compiled version in Flutter.  
