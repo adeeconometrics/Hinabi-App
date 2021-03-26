@@ -12,7 +12,7 @@ Everyone is affected by the pandemic, but the magnitude of how people are affect
 The diagram below shows the relationships and common features of the Social Welfare Applications, as they are the basis of our design implementation. 
 
 <p align = "center">
-<img src = "https:https://github.com/adeeconometrics/Hinabi-App/main/Diagrams/sitemap.jpg">
+<img src = "https://github.com/adeeconometrics/Hinabi-App/main/Diagrams/sitemap.jpg">
 </p>
 
 ## Notes for the current state of the project
