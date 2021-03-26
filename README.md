@@ -19,6 +19,18 @@ The diagram below shows the relationships and common features of the Social Welf
 ## App demo video
 - [Hinabi App - Outliers - Diliman Solutions Challenge](https://www.youtube.com/watch?v=_UJNeett3Ss)
 
+### Instructions for running the app
+
+Requirements:
+- [download flutter sdk](https://flutter.dev/docs/get-started/install)
+- [download andriod studio sdk](https://developer.android.com/studio/install)
+
+Note for running the app
+- dowload the Hinabi-App repository or copy the command on your commandline ``git clone https://github.com/adeeconometrics/Hinabi-App``
+- open Android Studio (or other IDEs that support Flutter)
+- from the avd manager -> create new virtual device -> select Pixel 4 XL
+- run main.dart using Pixel 4 XL
+
 ----
 ### Notes for the current state of the project
 The application is currently unstable, some animations on our app preview is not apparent with the compiled version in Flutter.  
