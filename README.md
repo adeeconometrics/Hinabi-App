@@ -1,4 +1,4 @@
-# Hinabi-App
+# *Hinabi*: A Unifying Design Interface for Social Welfare Services
 The Hinabi app aims to have fast, easy and convenient transactions with social welfare services on the fly.
 
 ----
