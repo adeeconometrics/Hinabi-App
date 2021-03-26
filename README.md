@@ -17,7 +17,7 @@ The diagram below shows the relationships and common features of the Social Welf
 </p>
 
 ## App demo video
-- [Hinabi App - Outliers - Diliman Solutions Challenge](https://www.youtube.com/watch?v=-rJ1JyND3No)
+- [Hinabi App - Outliers - Diliman Solutions Challenge](https://www.youtube.com/watch?v=_UJNeett3Ss)
 
 ----
 ### Notes for the current state of the project
