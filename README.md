@@ -2,7 +2,8 @@
 The Hinabi app aims to have fast, easy and convenient transactions with social welfare services on the fly.
 <p align="center">
   <img src="https://github.com/adeeconometrics/Hinabi-App/blob/main/Diagrams/hinabi_logo.jpg" />
-<\p>
+
+< \p>
   
 ----
 
