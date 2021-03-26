@@ -10,9 +10,8 @@ Everyone is affected by the pandemic, but the magnitude of how people are affect
 
 ## Design Matters: Organization of Concepts
 The diagram below shows the relationships and common features of the Social Welfare Applications, as they are the basis of our design implementation. 
-<p>
-  <img src="https://github.com/adeeconometrics/Hinabi-App/blob/main/Diagrams/sitemap.jpg" />
-</p>
+
+![class giagram](https:https://github.com/adeeconometrics/Hinabi-App/main/Diagrams/sitemap.drawio.png?style=centerme)
 
 ## Notes for the current state of the project
 The application is currently unstable, some animations on our app preview is not apparent with the compiled version in Flutter.  
