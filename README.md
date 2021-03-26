@@ -1,7 +1,7 @@
 # *Hinabi*: A Unifying Design Interface for Social Welfare Services
 The Hinabi app aims to have fast, easy and convenient transactions with social welfare services on the fly.
 <p align="center">
-![alt text](https://github.com/adeeconometrics/Hinabi-App/blob/main/Diagrams/hinabi_logo.jpg?raw=true)
+  <img src="https://github.com/adeeconometrics/Hinabi-App/blob/main/Diagrams/hinabi_logo.jpg"/>
 <\p>
 ----
 
