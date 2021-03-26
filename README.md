@@ -5,8 +5,6 @@ The Hinabi app aims to have fast, easy and convenient transactions with social w
   <img src="https://github.com/adeeconometrics/Hinabi-App/blob/main/Diagrams/hinabi_logo.jpg" />
 </p>
  
-[![Hinabi](//img.youtube.com/vi/-rJ1JyND3No.jpg)](//https://youtu.be/-rJ1JyND3No"Hinabi")
- 
 ----
 
 Everyone is affected by the pandemic, but the magnitude of how people are affected varies. Due to most of them having limited mobility, people with disabilities are struggling with accessing basic social services and immediate government assistance. *Hinabi* weaves these government social services together into a single unifying app that’s convenient, user-friendly, and accessible to all Filipinos. Adobe XD is used in designing the interface, and Flutter in implementing the design.
@@ -18,5 +16,8 @@ The diagram below shows the relationships and common features of the Social Welf
 <img src = "https://github.com/adeeconometrics/Hinabi-App/blob/main/Diagrams/sitemap.jpg">
 </p>
 
-## Notes for the current state of the project
+## App video
+- [Hinabi App - Outliers - Diliman Solutions Challenge](https://www.youtube.com/watch?v=-rJ1JyND3No)
+
+### Notes for the current state of the project
 The application is currently unstable, some animations on our app preview is not apparent with the compiled version in Flutter.  
