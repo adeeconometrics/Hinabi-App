@@ -19,5 +19,7 @@ The diagram below shows the relationships and common features of the Social Welf
 ## App demo video
 - [Hinabi App - Outliers - Diliman Solutions Challenge](https://www.youtube.com/watch?v=-rJ1JyND3No)
 
+----
+----
 ### Notes for the current state of the project
 The application is currently unstable, some animations on our app preview is not apparent with the compiled version in Flutter.  
